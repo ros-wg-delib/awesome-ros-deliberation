@@ -25,4 +25,4 @@ Deliberation is the topmost layer in a robotics architecture sometimes also call
 - [State Machines for Complex Robot Behavior](https://www.sensethinkact.com/episodes/10-brett-aldrich) - With Brett Aldrich, author of SMACC2
 
 ## Demos
-- [Simulation of Robot using Behavior Tree](https://www.youtube.com/watch?v=a0ve2CH245Y) - MOOD2BE, part of Robmosys 
+- [Simulation of Robot using Behavior Tree](https://www.youtube.com/watch?v=a0ve2CH245Y) - MOOD2BE, part of Robmosys
