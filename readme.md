@@ -1,5 +1,5 @@
-# Awesome Robotic Deliberation 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![GitHub](https://img.shields.io/github/license/ros-wg-delib/awesome-ros-deliberation?style=flat-square)](LICENSE)
+# Awesome Robotic Deliberation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
+[![GitHub](https://img.shields.io/github/license/ros-wg-delib/awesome-ros-deliberation?style=flat-square)](LICENSE) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ros-wg-delib/awesome-ros-deliberation/awesome-lint.yml?style=flat-square)](https://github.com/ros-wg-delib/awesome-ros-deliberation/actions)
 > A curated list of awesome tools and libraries for deliberation in ROS 2.
 
 Deliberation is the topmost layer in a robotics architecture sometimes also called mission or planning layer. It aims at controlling the robots behavior towards its extended goal or function. This includes pre-programmed state machines, automated symbolic planning as well as behavioral reaction to unforeseen situations happening at runtime.
