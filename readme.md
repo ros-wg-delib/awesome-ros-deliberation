@@ -1,3 +1,6 @@
+<!--lint disable awesome-git-repo-age-->
+<!--TODO: remove after 10 June 2023-->
+
 # Awesome Robotic Deliberation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
 [![GitHub](https://img.shields.io/github/license/ros-wg-delib/awesome-ros-deliberation?style=flat-square)](LICENSE) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ros-wg-delib/awesome-ros-deliberation/awesome-lint.yml?style=flat-square)](https://github.com/ros-wg-delib/awesome-ros-deliberation/actions)
 > A curated list of awesome tools, libraries and resources for deliberation in ROS 2.
