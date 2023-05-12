@@ -43,7 +43,8 @@ This includes pre-programmed state machines, automated symbolic planning as well
 
 ## Articles
 - [Introduction to Behavior Trees](https://roboticseabass.com/2021/05/08/introduction-to-behavior-trees/) - Sebastian Castro, 2021.
-- [Task Planning in Robotics](https://roboticseabass.com/2022/07/19/task-planning-in-robotics/) + [Integrated Task and Motion Planning in Robotics](https://roboticseabass.com/2022/07/30/integrated-task-and-motion-planning-in-robotics/) - Sebastian Castro, 2022.
+- [Task Planning in Robotics](https://roboticseabass.com/2022/07/19/task-planning-in-robotics/) - Sebastian Castro, 2022.
+- [Integrated Task and Motion Planning in Robotics](https://roboticseabass.com/2022/07/30/integrated-task-and-motion-planning-in-robotics/) - Sebastian Castro, 2022.
 
 ## Podcasts
 - [State Machines for Complex Robot Behavior](https://www.sensethinkact.com/episodes/10-brett-aldrich) - With Brett Aldrich, author of SMACC2.
