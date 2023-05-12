@@ -15,10 +15,20 @@ Deliberation is the topmost layer in a robotics architecture sometimes also call
 - [Demos](#demos)
 
 ## Packages
-- [BehaviorTree.cpp](https://github.com/BehaviorTree/BehaviorTree.ROS) - Implementation of behavior trees supporting ROS.
+- [BehaviorTree.cpp](https://github.com/BehaviorTree/BehaviorTree.ROS) - Implementation of behavior trees in C++.
+- [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
+- [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) - PDDL Planner.
+- [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) - PDDL Planner.
+- [SkiROS2](https://github.com/RVMI/skiros2) - Skill-based framework executing PDDL plans as behavior trees.
+- [SMACC2](https://github.com/robosoft-ai/SMACC2) - State machine implementation in C++.
+- [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
 
 ## Presentations
-- [System Modes](https://vimeo.com/767165876) - model-based run-time state management of large systems ([slides](http://download.ros.org/downloads/roscon/2022/System%20Modes%20-%20model-based%20run-time%20state%20management%20of%20large%20systems.pdf)).
+- [BehaviorTree.CPP 4.0. What is new and roadmap](https://vimeo.com/767160437) - Davide Faconti, Picknik @ ROScon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/BehaviorTree.CPP%204.0.%20What%20is%20new%20and%20roadmap.pdf)).
+- [System Modes - model-based run-time state management of large systems](https://vimeo.com/767165876) - Ralph Lange, Bosch Research @ ROScon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/System%20Modes%20-%20model-based%20run-time%20state%20management%20of%20large%20systems.pdf)).
+- [SMACC2, an open-source, event-driven, asynchronous, behavioral state machine library for ROS2 applications written in C++](https://vimeo.com/649655394/f9b25be7f9) - Brett Aldrich, ROBOSOFT AI @ ROScon 2021.
+- [PackML2: State Machine Based System Programming, Monitoring and Control in ROS2](https://vimeo.com/378683073) - Dejanira Araiza-Illan, ROS-Industrial Consortium Asia Pacific @ ROScon 2019 ([slides](https://roscon.ros.org/2019/talks/roscon2019_packml2.pdf)).
+- [JdeRobot VisualStates: Visual tool for generating automata based robot behaviors](https://vimeo.com/293530044) - Okan Asik, JdeRobot @ ROScon 2018 Lightning Talks ([repo](https://github.com/JdeRobot/VisualStates)).
 
 ## Papers
 - [Optimized Execution of PDDL Plans using Behavior Trees
