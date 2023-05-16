@@ -54,7 +54,10 @@ This includes pre-programmed state machines, automated symbolic planning as well
 
 ## Podcasts
 
+- [Can One Person Make Two Powerful Tools for the Robotics Community?](https://www.sensethinkact.com/episodes/26-davide-faconti) - With Davide Faconti, author of BehaviorTree.CPP.
+- [ROS Plan](https://www.theconstructsim.com/rdp-047-ros-plan-michael-cashmore/) - RDP 047 with Gerard Canal and Michael Cashmore.
 - [State Machines for Complex Robot Behavior](https://www.sensethinkact.com/episodes/10-brett-aldrich) - With Brett Aldrich, author of SMACC2.
+- [Towards Assured Robot Autonomy with ROS](https://www.theconstructsim.com/100-towards-assured-robot-autonomy-with-ros-with-patrick-musau/) - RDP 100 with Patrick Musau.
 
 ## Demos
 
