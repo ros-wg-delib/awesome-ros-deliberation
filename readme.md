@@ -22,12 +22,13 @@ This includes pre-programmed state machines, automated symbolic planning as well
 ## Packages
 
 - [BehaviorTree.cpp](https://github.com/BehaviorTree/BehaviorTree.ROS) - Implementation of behavior trees in C++.
+- [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
 - [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
 - [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) - PDDL Planner.
 - [MoveIt Studio](https://picknik.ai/studio/) - ROS 2 based commercial software that uses behavior trees and MoveIt / MoveIt Task Constructor.
 - [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) - MoveIt add-on package that performs skeleton-based task and motion planning.
 - [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) - PDDL Planner.
-- [SkiROS2](https://github.com/RVMI/skiros2) - Skill-based framework executing PDDL plans as behavior trees.
+- [SkiROS2](https://github.com/RVMI/skiros2) - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 - [SMACC2](https://github.com/robosoft-ai/SMACC2) - State machine implementation in C++.
 - [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
 - [PDDLStream](https://github.com/caelan/pddlstream) - Python based package for integrated task and motion planning (TAMP).
@@ -42,9 +43,14 @@ This includes pre-programmed state machines, automated symbolic planning as well
 - [SMACC2, an open-source, event-driven, asynchronous, behavioral state machine library for ROS2 applications written in C++](https://vimeo.com/649655394/f9b25be7f9) - Brett Aldrich, ROBOSOFT AI @ ROScon 2021.
 - [System Modes - model-based run-time state management of large systems](https://vimeo.com/767165876) - Ralph Lange, Bosch Research @ ROScon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/System%20Modes%20-%20model-based%20run-time%20state%20management%20of%20large%20systems.pdf)).
 
-## Papers
+## Papers & Book Chapters
 
-- [Optimized Execution of PDDL Plans using Behavior Trees](https://arxiv.org/abs/2101.01964?s=08) - Francisco Martín et. al.
+- [CoSTAR: Instructing collaborative robots with behavior trees and vision](https://ieeexplore.ieee.org/document/7989070) - Chris Paxton et al.
+- [Extended behavior trees for quick definition of flexible robotic tasks](https://ieeexplore.ieee.org/document/8206598) - Francesco Rovida et al.
+- [KnowRob: A knowledge processing infrastructure for cognition-enabled robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913481635?journalCode=ijra) - Moritz Tenorth et al.
+- [Optimized Execution of PDDL Plans using Behavior Trees](https://arxiv.org/abs/2101.01964?s=08) - Francisco Martín et al.
+- [Robotic Systems Architectures and Programming in the Handbook of robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5) - David Kortenkamp, Bruno Siciliano et al.
+- [SkiROS—A Skill-Based Robot Control Platform on Top of ROS](https://link.springer.com/chapter/10.1007/978-3-319-54927-9_4) - Francesco Rovida et al. (SkiROS is superseeded by [SkiROS2](https://github.com/RVMI/skiros2))
 
 ## Blog Posts
 
@@ -61,5 +67,8 @@ This includes pre-programmed state machines, automated symbolic planning as well
 
 ## Demos
 
+- [CoSTAR: Instructing Collaborative Robots with Behavior Trees and Vision](https://www.youtube.com/watch?v=eGdwl1dmTrA)- CoSTAR demos like sanding, pick & place and robot instruction.
+- [Dual-arm Piston Insertion](https://www.youtube.com/watch?v=sTM0ih6faMs) - Piston insertion with kinesthetic teaching, vision, task adaption & knowledge integration.
+- [Robot Household Marathon: EASE Generative Models of Everyday Activity](https://www.youtube.com/watch?v=pv_n9FQRoZQ&t=4s) - Setting a table with a PR2.
 - [Simulation of Robot using Behavior Tree](https://www.youtube.com/watch?v=a0ve2CH245Y) - MOOD2BE, part of Robmosys.
 - [TurtleBot 3 Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Examples of behavior trees for navigation actions in C++ and Python.
