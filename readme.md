@@ -14,7 +14,7 @@ This includes pre-programmed state machines, automated symbolic planning as well
 
 - [Packages](#packages)
 - [Presentations](#presentations)
-- [Papers & Book Chapters](#papers-and-book-chapters)
+- [Papers and Book Chapters](#papers-and-book-chapters)
 - [Blog Posts](#blog-posts)
 - [Podcasts](#podcasts)
 - [Demos](#demos)
