@@ -33,6 +33,8 @@ This includes pre-programmed state machines, automated symbolic planning as well
 - [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
 - [PDDLStream](https://github.com/caelan/pddlstream) - Python based package for integrated task and motion planning (TAMP).
 - [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
+- [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning).
+
 
 ## Presentations
 
