@@ -27,6 +27,7 @@ This includes pre-programmed state machines, automated symbolic planning as well
 - [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) - PDDL Planner.
 - [MoveIt Studio](https://picknik.ai/studio/) - ROS 2 based commercial software that uses behavior trees and MoveIt / MoveIt Task Constructor.
 - [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) - MoveIt add-on package that performs skeleton-based task and motion planning.
+- [NEXUS](https://github.com/osrf/nexus) - A ROS 2 framework for orchestrating industrial robotic lines and cells.
 - [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) - PDDL Planner.
 - [SkiROS2](https://github.com/RVMI/skiros2) - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 - [rmf_task](https://github.com/open-rmf/rmf_task) - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
@@ -43,6 +44,7 @@ This includes pre-programmed state machines, automated symbolic planning as well
 - [Behavior Trees for Home Service Robotics Tasks](https://www.youtube.com/watch?v=xbvMnpwXNPk) - Sebastian Castro, PickNik Robotics @ Behavior Trees in Robotics Seminar.
 - [How custom tasks are defined, assigned, and executed in Open-RMF](https://vimeo.com/showcase/9954564/video/767157210) - M. Grey & Yadunund Vijay, Open Robotics @ ROSCon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf))
 - [JdeRobot VisualStates: Visual tool for generating automata based robot behaviors](https://vimeo.com/293530044) - Okan Asik, JdeRobot @ ROScon 2018 Lightning Talks ([repo](https://github.com/JdeRobot/VisualStates)).
+- [NEXUS: A ROS 2 framework for orchestrating industrial robotic lines and cells](https://vimeo.com/879001338/fb3bcc8741) - Dejanira Araiza-Illan, Johnson & Johnson @ ROSCon 2023 ([slides](https://roscon.ros.org/talks/NEXUS_A_ROS_2_framework_for_orchestrating_industrial_robotic_lines_and_cells.pdf)).
 - [PackML2: State Machine Based System Programming, Monitoring and Control in ROS2](https://vimeo.com/378683073) - Dejanira Araiza-Illan, ROS-Industrial Consortium Asia Pacific @ ROScon 2019 ([slides](https://roscon.ros.org/2019/talks/roscon2019_packml2.pdf)).
 - [SMACC2, an open-source, event-driven, asynchronous, behavioral state machine library for ROS2 applications written in C++](https://vimeo.com/649655394/f9b25be7f9) - Brett Aldrich, ROBOSOFT AI @ ROScon 2021.
 - [System Modes - model-based run-time state management of large systems](https://vimeo.com/767165876) - Ralph Lange, Bosch Research @ ROScon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/System%20Modes%20-%20model-based%20run-time%20state%20management%20of%20large%20systems.pdf)).
