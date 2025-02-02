@@ -12,7 +12,7 @@ This includes pre-programmed state machines, automated symbolic planning as well
 
 ## Contents
 
-- [Packages](#packages)
+- [Software Packages](#software-packages)
 - [Presentations](#presentations)
 - [Papers and Book Chapters](#papers-and-book-chapters)
 - [Blog Posts](#blog-posts)
