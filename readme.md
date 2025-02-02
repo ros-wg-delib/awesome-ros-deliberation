@@ -9,6 +9,7 @@
 Deliberation is the topmost layer in a robotics architecture sometimes also called mission or planning layer.
 It aims at controlling the robots behavior towards its extended goal or function.
 This includes pre-programmed state machines, automated symbolic planning as well as behavioral reaction to unforeseen situations happening at runtime.
+For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)](https://hal.science/hal-01137921).
 
 ## Contents
 
@@ -31,7 +32,7 @@ This includes pre-programmed state machines, automated symbolic planning as well
 
 ### Behavior Abstractions
 - [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.ROS) - Implementation of behavior trees in C++.
-- [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI
+- [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
 - [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) behavior tree library.
 - [SMACC2](https://github.com/robosoft-ai/SMACC2) - State machine implementation in C++.
 - [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
