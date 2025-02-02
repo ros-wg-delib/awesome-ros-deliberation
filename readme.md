@@ -19,24 +19,28 @@ This includes pre-programmed state machines, automated symbolic planning as well
 - [Podcasts](#podcasts)
 - [Demos](#demos)
 
-## Packages
+## Software Packages
 
-- [BehaviorTree.cpp](https://github.com/BehaviorTree/BehaviorTree.ROS) - Implementation of behavior trees in C++.
+### Task Planning and Execution Frameworks
 - [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
-- [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
-- [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) - PDDL Planner.
-- [MoveIt Studio](https://picknik.ai/studio/) - ROS 2 based commercial software that uses behavior trees and MoveIt / MoveIt Task Constructor.
+- [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) - PDDL planning and execution framework, using Python and state machines.
 - [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) - MoveIt add-on package that performs skeleton-based task and motion planning.
-- [NEXUS](https://github.com/osrf/nexus) - A ROS 2 framework for orchestrating industrial robotic lines and cells.
-- [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) - PDDL Planner.
+- [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) - PDDL planning and execution framework, using C++ and behavior trees.
 - [SkiROS2](https://github.com/RVMI/skiros2) - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
-- [rmf_task](https://github.com/open-rmf/rmf_task) - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
-- [SMACC2](https://github.com/robosoft-ai/SMACC2) - State machine implementation in C++.
-- [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
-- [PDDLStream](https://github.com/caelan/pddlstream) - Python based package for integrated task and motion planning (TAMP).
-- [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
 - [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning).
 
+### Behavior Abstractions
+- [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.ROS) - Implementation of behavior trees in C++.
+- [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI
+- [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) behavior tree library.
+- [SMACC2](https://github.com/robosoft-ai/SMACC2) - State machine implementation in C++.
+- [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
+
+### Application-Specific Packages
+- [MoveIt Pro](https://picknik.ai/pro/) - ROS 2 based commercial software that uses BehaviorTree.CPP and MoveIt.
+- [NEXUS](https://github.com/osrf/nexus) - A ROS 2 framework for orchestrating industrial robotic lines and cells.
+- [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
+- [rmf_task](https://github.com/open-rmf/rmf_task) - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
 
 ## Presentations
 
