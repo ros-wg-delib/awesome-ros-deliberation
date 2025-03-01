@@ -32,7 +32,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Behavior Abstractions
 - [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP), an implementation of behavior trees in C++.
-- [BT Studio](https://github.com/JdeRobot/bt-studio) - A web IDE for development of behavior trees. Uses [PyTrees](https://github.com/splintered-reality/py_trees) internally, but uses the XML representation in [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP).
+- [BT Studio](https://github.com/JdeRobot/bt-studio) - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
 - [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
 - [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) behavior tree library.
 - [ros_bt_py](https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py) - ROS 2 and Python based library for behavior trees, with a ReactJS based web GUI.
