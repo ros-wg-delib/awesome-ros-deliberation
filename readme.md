@@ -84,6 +84,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [CoSTAR: Instructing Collaborative Robots with Behavior Trees and Vision](https://www.youtube.com/watch?v=eGdwl1dmTrA) - CoSTAR demos like sanding, pick & place and robot instruction.
 - [Dual-arm Piston Insertion](https://www.youtube.com/watch?v=sTM0ih6faMs) - Piston insertion with kinesthetic teaching, vision, task adaption & knowledge integration.
 - [Hands-On with ROS 2 Deliberation Technologies](https://github.com/ros-wg-delib/roscon24-workshop) - Workshop presented at ROSCon 2024, organized by the ROS Deliberation Community Group.
+- [Reinforcement Learning for Deliberation in ROS 2](https://github.com/ros-wg-delib/rl_deliberation) - Workshop pressented at ROSCon 2025, organized by the ROS Deliberation Community Group.
 - [Robot Household Marathon: EASE Generative Models of Everyday Activity](https://www.youtube.com/watch?v=pv_n9FQRoZQ&t=4s) - Setting a table with a PR2.
 - [Simulation of Robot using Behavior Tree](https://www.youtube.com/watch?v=a0ve2CH245Y) - MOOD2BE, part of Robmosys.
 - [TurtleBot 3 Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Examples of behavior trees for navigation actions in C++ and Python.
