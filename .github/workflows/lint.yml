@@ -1,21 +1,16 @@
-name: awesome-lint
+name: Lint
 on:
   pull_request:
     branches: [main]
   push:
     branches: [main]
 jobs:
-  awesome-lint:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
       - run: npx awesome-lint
-  markdown-lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: articulate/actions-markdownlint@v1
-        with:
-          config: markdownlint-config.json
-          files: '*.md'
+      - name: Pre-commit
+        uses: pre-commit/action@v3.0.1

@@ -23,6 +23,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 ## Software Packages
 
 ### Task Planning and Execution Frameworks
+
 - [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
 - [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) - PDDL planning and execution framework, using Python and state machines.
 - [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) - MoveIt add-on package that performs skeleton-based task and motion planning.
@@ -31,6 +32,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning).
 
 ### Behavior Abstractions
+
 - [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP), an implementation of behavior trees in C++.
 - [BT Studio](https://github.com/JdeRobot/bt-studio) - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
 - [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
@@ -40,6 +42,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
 
 ### Application-Specific Packages
+
 - [MoveIt Pro](https://picknik.ai/pro/) - ROS 2 based commercial software that uses BehaviorTree.CPP and MoveIt.
 - [NEXUS](https://github.com/osrf/nexus) - A ROS 2 framework for orchestrating industrial robotic lines and cells.
 - [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
@@ -64,7 +67,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [KnowRob: A knowledge processing infrastructure for cognition-enabled robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913481635?journalCode=ijra) - Moritz Tenorth et al.
 - [Optimized Execution of PDDL Plans using Behavior Trees](https://arxiv.org/abs/2101.01964?s=08) - Francisco Martín et al.
 - [Robotic Systems Architectures and Programming in the Handbook of robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5) - David Kortenkamp, Bruno Siciliano et al.
-- [SkiROS—A Skill-Based Robot Control Platform on Top of ROS](https://link.springer.com/chapter/10.1007/978-3-319-54927-9_4) - Francesco Rovida et al. (SkiROS is superseeded by SkiROS2)
+- [SkiROS—A Skill-Based Robot Control Platform on Top of ROS](https://link.springer.com/chapter/10.1007/978-3-319-54927-9_4) - Francesco Rovida et al. (SkiROS is superseded by SkiROS2)
 
 ## Blog Posts
 
@@ -84,7 +87,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [CoSTAR: Instructing Collaborative Robots with Behavior Trees and Vision](https://www.youtube.com/watch?v=eGdwl1dmTrA) - CoSTAR demos like sanding, pick & place and robot instruction.
 - [Dual-arm Piston Insertion](https://www.youtube.com/watch?v=sTM0ih6faMs) - Piston insertion with kinesthetic teaching, vision, task adaption & knowledge integration.
 - [Hands-On with ROS 2 Deliberation Technologies](https://github.com/ros-wg-delib/roscon24-workshop) - Workshop presented at ROSCon 2024, organized by the ROS Deliberation Community Group.
-- [Reinforcement Learning for Deliberation in ROS 2](https://github.com/ros-wg-delib/rl_deliberation) - Workshop pressented at ROSCon 2025, organized by the ROS Deliberation Community Group.
+- [Reinforcement Learning for Deliberation in ROS 2](https://github.com/ros-wg-delib/rl_deliberation) - Workshop presented at ROSCon 2025, organized by the ROS Deliberation Community Group.
 - [Robot Household Marathon: EASE Generative Models of Everyday Activity](https://www.youtube.com/watch?v=pv_n9FQRoZQ&t=4s) - Setting a table with a PR2.
 - [Simulation of Robot using Behavior Tree](https://www.youtube.com/watch?v=a0ve2CH245Y) - MOOD2BE, part of Robmosys.
 - [TurtleBot 3 Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - Examples of behavior trees for navigation actions in C++ and Python.
