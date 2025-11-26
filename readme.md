@@ -64,7 +64,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 - [CoSTAR: Instructing collaborative robots with behavior trees and vision](https://ieeexplore.ieee.org/document/7989070) - Chris Paxton et al.
 - [Extended behavior trees for quick definition of flexible robotic tasks](https://ieeexplore.ieee.org/document/8206598) - Francesco Rovida et al.
-- [KnowRob: A knowledge processing infrastructure for cognition-enabled robots](https://scholar.google.com/scholar?cluster=7588897582635131002) - Moritz Tenorth et al.
+- [KnowRob: A knowledge processing infrastructure for cognition-enabled robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913481635) - Moritz Tenorth et al.
 - [Optimized Execution of PDDL Plans using Behavior Trees](https://arxiv.org/abs/2101.01964?s=08) - Francisco Martín et al.
 - [Robotic Systems Architectures and Programming in the Handbook of robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5) - David Kortenkamp, Bruno Siciliano et al.
 - [SkiROS—A Skill-Based Robot Control Platform on Top of ROS](https://link.springer.com/chapter/10.1007/978-3-319-54927-9_4) - Francesco Rovida et al. (SkiROS is superseded by SkiROS2)

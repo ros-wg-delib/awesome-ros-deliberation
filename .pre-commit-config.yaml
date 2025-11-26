@@ -24,4 +24,4 @@ repos:
   rev: v3.14.2
   hooks:
     - id: markdown-link-check
-      args: [-q]
+      args: [-q, --config, .markdown-link-check.json]
