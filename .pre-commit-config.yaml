@@ -25,3 +25,8 @@ repos:
   hooks:
     - id: markdown-link-check
       args: [-q, --config, .markdown-link-check.json]
+
+- repo: https://github.com/pengqun/pre-commit-hooks
+  rev: v1.1.0
+  hooks:
+    - id: awesome-lint
