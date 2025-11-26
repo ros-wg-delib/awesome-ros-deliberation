@@ -55,7 +55,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [How custom tasks are defined, assigned, and executed in Open-RMF](https://vimeo.com/showcase/9954564/video/767157210) - M. Grey & Yadunund Vijay, Open Robotics @ ROSCon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf))
 - [Implementing Robot Task Planning with Learned Manipulation Skills](https://youtu.be/91igg5x-D6c?si=KHXA_p82Nh4tL6-n) - Sebastian Castro, Robotics and AI Institute @ University of Washington, 2025 ([slides](https://docs.google.com/presentation/d/1Kl0UmPAshX7hVM8dQVwCh5Ozo_86fuXKoFKbjxSl6xk/edit?usp=sharing)).
 - [JdeRobot VisualStates: Visual tool for generating automata based robot behaviors](https://vimeo.com/293530044) - Okan Asik, JdeRobot @ ROSCon 2018 Lightning Talks ([repo](https://github.com/JdeRobot/VisualStates)).
-- [NEXUS: A ROS 2 framework for orchestrating industrial robotic lines and cells](https://vimeo.com/879001338/fb3bcc8741) - Dejanira Araiza-Illan, Johnson & Johnson @ ROSCon 2023 ([slides](https://roscon.ros.org/talks/NEXUS_A_ROS_2_framework_for_orchestrating_industrial_robotic_lines_and_cells.pdf)).
+- [NEXUS: A ROS 2 framework for orchestrating industrial robotic lines and cells](https://vimeo.com/879001338/fb3bcc8741) - Dejanira Araiza-Illan, Johnson & Johnson @ ROSCon 2023 ([slides](https://roscon.ros.org/2023/talks/NEXUS_A_ROS_2_framework_for_orchestrating_industrial_robotic_lines_and_cells.pdf)).
 - [PackML2: State Machine Based System Programming, Monitoring and Control in ROS2](https://vimeo.com/378683073) - Dejanira Araiza-Illan, ROS-Industrial Consortium Asia Pacific @ ROSCon 2019 ([slides](https://roscon.ros.org/2019/talks/roscon2019_packml2.pdf)).
 - [SMACC2, an open-source, event-driven, asynchronous, behavioral state machine library for ROS2 applications written in C++](https://vimeo.com/649655394/f9b25be7f9) - Brett Aldrich, ROBOSOFT AI @ ROSCon 2021.
 - [System Modes - model-based run-time state management of large systems](https://vimeo.com/767165876) - Ralph Lange, Bosch Research @ ROSCon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/System%20Modes%20-%20model-based%20run-time%20state%20management%20of%20large%20systems.pdf)).
@@ -64,7 +64,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 - [CoSTAR: Instructing collaborative robots with behavior trees and vision](https://ieeexplore.ieee.org/document/7989070) - Chris Paxton et al.
 - [Extended behavior trees for quick definition of flexible robotic tasks](https://ieeexplore.ieee.org/document/8206598) - Francesco Rovida et al.
-- [KnowRob: A knowledge processing infrastructure for cognition-enabled robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913481635?journalCode=ijra) - Moritz Tenorth et al.
+- [KnowRob: A knowledge processing infrastructure for cognition-enabled robots](https://scholar.google.com/scholar?cluster=7588897582635131002) - Moritz Tenorth et al.
 - [Optimized Execution of PDDL Plans using Behavior Trees](https://arxiv.org/abs/2101.01964?s=08) - Francisco Martín et al.
 - [Robotic Systems Architectures and Programming in the Handbook of robotics](https://link.springer.com/book/10.1007/978-3-540-30301-5) - David Kortenkamp, Bruno Siciliano et al.
 - [SkiROS—A Skill-Based Robot Control Platform on Top of ROS](https://link.springer.com/chapter/10.1007/978-3-319-54927-9_4) - Francesco Rovida et al. (SkiROS is superseded by SkiROS2)
