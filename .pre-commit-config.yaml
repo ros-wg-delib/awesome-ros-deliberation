@@ -30,3 +30,4 @@ repos:
   rev: v1.1.0
   hooks:
     - id: awesome-lint
+      args: [-q]
