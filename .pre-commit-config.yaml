@@ -1,0 +1,32 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-yaml
+    -   id: check-added-large-files
+
+-   repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+      - id: codespell
+        args:
+          []
+
+-   repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: "v0.46.0"
+    hooks:
+      - id: markdownlint
+        args: ["-f", "-c", "markdownlint-config.json"]
+
+- repo: https://github.com/tcort/markdown-link-check
+  rev: v3.14.2
+  hooks:
+    - id: markdown-link-check
+      args: [-q, --config, .markdown-link-check.json]
+
+- repo: https://github.com/pengqun/pre-commit-hooks
+  rev: v1.1.0
+  hooks:
+    - id: awesome-lint

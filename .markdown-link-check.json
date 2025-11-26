@@ -1,0 +1,7 @@
+{
+    "ignorePatterns": [
+        {
+            "pattern": "^https://journals.sagepub.com/doi"
+        }
+    ]
+}
