@@ -40,6 +40,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 - [ros_bt_py](https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py) - ROS 2 and Python based library for behavior trees, with a ReactJS based web GUI.
 - [SMACC2](https://github.com/robosoft-ai/SMACC2) - State machine implementation in C++.
 - [YASMIN](https://github.com/uleroboticsgroup/yasmin) - State machine implementation for C++ and Python.
+- [soar_ros](https://github.com/THA-Embedded-Systems-Lab/soar_ros) - ROS 2 package including the Soar cognitive architecture with logic to handle synchronization between ROS and Soar.
 
 ### Application-Specific Packages
 
