@@ -34,6 +34,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 ### Behavior Abstractions
 
 - [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP), an implementation of behavior trees in C++.
+- [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) integrated deeply into the ROS 2 ecosystem.
 - [BT Studio](https://github.com/JdeRobot/bt-studio) - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
 - [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) - State machine implementation with web-based GUI.
 - [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) behavior tree library.
@@ -53,6 +54,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 - [BehaviorTree.CPP 4.0. What is new and roadmap](https://vimeo.com/767160437) - Davide Faconti, Picknik @ ROSCon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/BehaviorTree.CPP%204.0.%20What%20is%20new%20and%20roadmap.pdf)).
 - [Behavior Trees for Home Service Robotics Tasks](https://www.youtube.com/watch?v=xbvMnpwXNPk) - Sebastian Castro, PickNik Robotics @ Behavior Trees in Robotics Seminar.
+- [AutoAPMS: Lightweight and versatile integration of behavior trees into the ROS 2 ecosystem](https://fosdem.org/2026/schedule/event/RUE39L-auto-apms/) - Robin Müller @ FOSDEM Robotics & Simulation Devroom 2026 ([slides](https://robin-mueller.github.io/fosdem26-devtalk-autoapms/))
 - [How custom tasks are defined, assigned, and executed in Open-RMF](https://vimeo.com/showcase/9954564/video/767157210) - M. Grey & Yadunund Vijay, Open Robotics @ ROSCon 2022 ([slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf))
 - [Implementing Robot Task Planning with Learned Manipulation Skills](https://youtu.be/91igg5x-D6c?si=KHXA_p82Nh4tL6-n) - Sebastian Castro, Robotics and AI Institute @ University of Washington, 2025 ([slides](https://docs.google.com/presentation/d/1Kl0UmPAshX7hVM8dQVwCh5Ozo_86fuXKoFKbjxSl6xk/edit?usp=sharing)).
 - [JdeRobot VisualStates: Visual tool for generating automata based robot behaviors](https://vimeo.com/293530044) - Okan Asik, JdeRobot @ ROSCon 2018 Lightning Talks ([repo](https://github.com/JdeRobot/VisualStates)).
