@@ -2,6 +2,9 @@
     "ignorePatterns": [
         {
             "pattern": "^https://journals.sagepub.com/doi"
+        },
+        {
+            "pattern": "^https://roboticseabass.com/.*"
         }
     ]
 }
